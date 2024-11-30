@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ayush Kumar  
+**Web Developer | Game Developer | Programmer**
 
-<!--
-**AyushCodes160/AyushCodes160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 *Turning ideas into code and designs into reality.*  
 
-Here are some ideas to get you started:
+## 💡 Skills  
+- **Programming Languages:** Python, HTML, CSS, JavaScript, C++ (Basics)  
+- **Design Tools:** Figma  
+- **Game Development:** Unreal Engine (Basic)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I am a passionate developer and designer who enjoys building interactive web applications and experimenting with game development. With a knack for creative problem-solving and a continuous learning mindset, I aim to contribute to impactful projects.
+
+## 📈 Current Goals  
+- Enhancing my skills in C++ and Unreal Engine.  
+- Working on collaborative web development and game design projects.
+
+## 🌐 Let's Connect!  
+[LinkedIn](https://www.linkedin.com/in/ayush-kumar-278013326/) | Discord: **AyusHere[✨Ayumu✨]**
