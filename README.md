@@ -14,6 +14,10 @@ I am a passionate developer and designer who enjoys building interactive web app
 ## 📈 Current Goals  
 - Enhancing my skills in C++ and Unreal Engine.  
 - Working on collaborative web development and game design projects.
+## 📊 GitHub Stats
+
+![AyushCodes160's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushCodes160&show_icons=true&theme=midnight-purple)
+![AyushCodes160's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCodes160&layout=compact&theme=midnight-purple)
 
 ## 🌐 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-278013326/) | Discord: **AyusHere[✨Ayumu✨]**
