@@ -23,5 +23,8 @@ I am a passionate developer and designer who enjoys building interactive web app
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=AyushCodes160&theme=darkhub)
 
+### GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushCodes160&theme=neon-dark)
+
 ## 🌐 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-278013326/) | Discord: **AyusHere[✨Ayumu✨]**
