@@ -1,4 +1,4 @@
-# Ayush Kumar 
+ 
 <h1 align="center">👋 Hi there, I'm Ayush!</h1>
 **Web Developer | Game Developer | Programmer**
 
