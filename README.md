@@ -21,7 +21,7 @@ I am a passionate developer and designer who enjoys building interactive web app
 ![AyushCodes160's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushCodes160&show_icons=true&theme=midnight-purple)
 ![AyushCodes160's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCodes160&layout=compact&theme=midnight-purple)
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushCodes160&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/AyushCodes160/github-readme-activity-graph)
+[![YYLE88'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=AyushCodes160)](https://github.com/AyushCodes160)
 
 ## 🏆 GitHub Trophies
 
@@ -29,6 +29,7 @@ I am a passionate developer and designer who enjoys building interactive web app
 
 ### GitHub Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushCodes160&theme=neon-dark)
+
 
 ## 🌐 Let's Connect!  
 [LinkedIn](https://www.linkedin.com/in/ayush-kumar-278013326/) | Discord: **AyusHere[✨Ayumu✨]**
