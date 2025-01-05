@@ -37,3 +37,9 @@ I am a passionate developer and designer who enjoys building interactive web app
 
 ## 🌐 Let's Connect!  
 
+<p align="left">
+<a href="https://www.youtube.com/c/knifecodez](https://www.youtube.com/@KumarAyush-t3n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="knifecodez" height="30" width="40" /></a>
+<a href="https://discord.gg/Rg7Qb5xWf3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://self.cwings.me/discord" height="30" width="40" /></a>
+</p>
+
+
