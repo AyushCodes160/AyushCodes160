@@ -19,7 +19,14 @@ I am a passionate developer and designer who enjoys building interactive web app
 
 ## 📊 GitHub Stats
 
-![AyushCodes160's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushCodes160&show_icons=true&theme=midnight-purple)
+<p align="center">
+  <a href="https://github.com/AyushCodes160">
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushCodes160&show_icons=true&theme=tokyonight&hide_border=true">
+  </a>
+  <h3 align="center">GitHub Stats</h3>
+  <p align="center">⚡️📌 GitHub statistics for AyushCodes160</p>
+</p>
+
 ![AyushCodes160's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCodes160&layout=compact&theme=midnight-purple)
 
 [![YYLE88'S_GITHUB_ACTIVITY_GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=AyushCodes160)](https://github.com/AyushCodes160)
