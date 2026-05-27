@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-- 🔭 **Currently working on:** A cool-looking **Pokédex**
+- 🔭 **Currently working on:** Working at **AI Bridge**
 - 👯 **Looking to collaborate on:** Open Source Projects
 - 🌱 **Currently learning:** Data Analysis & Visualization, Software Engineering & System Design
 - 💬 **Ask me about:** JavaScript, Python, React, Databases
